@@ -1,2 +1,2 @@
-# Progress-C-
+# Progress-C
 Hasil praktikum kuliah
